@@ -22,7 +22,7 @@ Mapping Earthquakes with JS &amp; APIs
 ![Pic 2](https://github.com/Lindsaybgood/Mapping_Earthquakes/blob/main/Images/key.PNG)
 
 ## A light map layer with all earthquake toggles:
-![Pic 3](https://github.com/Baylex/Mapping_Earthquakes/blob/main/Images/light_all.PNG)
+![Pic 3](https://github.com/Lindsaybgood/Mapping_Earthquakes/blob/main/Images/light_all.PNG)
 
 ## A dark map layer with major earthquakes only:
 ![Pic 4](https://github.com/Baylex/Mapping_Earthquakes/blob/main/Images/dark_major.PNG)
