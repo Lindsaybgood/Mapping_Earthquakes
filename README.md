@@ -19,7 +19,7 @@ Mapping Earthquakes with JS &amp; APIs
 
 ## Creating the map key based on Magnitude:
 
-![Pic 2](https://github.com/Baylex/Mapping_Earthquakes/blob/main/Images/key.PNG)
+![Pic 2](https://github.com/Lindsaybgood/Mapping_Earthquakes/blob/main/Images/key.PNG)
 
 ## A light map layer with all earthquake toggles:
 ![Pic 3](https://github.com/Baylex/Mapping_Earthquakes/blob/main/Images/light_all.PNG)
