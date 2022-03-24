@@ -15,7 +15,7 @@ Mapping Earthquakes with JS &amp; APIs
 # Results: 
 ## Creating the overlays and controls:
 
-![Pic 1](https://github.com/Baylex/Mapping_Earthquakes/blob/main/Images/toggle_options.PNG)
+![Pic 1](https://github.com/Lindsaybgood/Mapping_Earthquakes/blob/main/Images/toggle_options.PNG)
 
 ## Creating the map key based on Magnitude:
 
