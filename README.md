@@ -25,7 +25,7 @@ Mapping Earthquakes with JS &amp; APIs
 ![Pic 3](https://github.com/Lindsaybgood/Mapping_Earthquakes/blob/main/Images/light_all.PNG)
 
 ## A dark map layer with major earthquakes only:
-![Pic 4](https://github.com/Baylex/Mapping_Earthquakes/blob/main/Images/dark_major.PNG)
+![Pic 4](https://github.com/Lindsaybgood/Mapping_Earthquakes/blob/main/Images/dark_major.PNG)
 
 ## Satellite streets layer with tectonic plates only:
 ![Pic 5](https://github.com/Baylex/Mapping_Earthquakes/blob/main/Images/satellite_plates.PNG)
