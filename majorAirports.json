@@ -70,3 +70,4 @@
   {"type":"Feature","properties":{"id":"3316","name":"Singapore Changi Airport","city":"Singapore","country":"Singapore","faa":"SIN","icao":"WSSS","alt":"22","tz-offset":"8","dst":"N","tz":"Asia/Singapore"},"geometry":{"type":"Point","coordinates":[103.994003,1.35019]}}
 
 ]}
+
