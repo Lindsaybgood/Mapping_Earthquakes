@@ -33,3 +33,4 @@ Mapping Earthquakes with JS &amp; APIs
 ## Streets layer with earthquakes only:
 ![Pic 6](https://github.com/Lindsaybgood/Mapping_Earthquakes/blob/main/Images/streets_eq.PNG)
 
+
