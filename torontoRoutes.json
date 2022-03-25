@@ -305,3 +305,4 @@
     ,
     {"type":"Feature","properties":{"airline":"DL","airline_id":"2009","src":"YYZ","src_id":"193","dst":"MSP","dst_id":"3858","codeshare":"Y","stops":"0","equipment":"CRJ"},"geometry":{"type":"LineString","coordinates":[[-79.63059997559999,43.6772003174],[-93.221802,44.882]]}}
     ]}
+
