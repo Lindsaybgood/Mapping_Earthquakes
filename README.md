@@ -36,4 +36,3 @@ Mapping Earthquakes with JS &amp; APIs
 
 
 
-
