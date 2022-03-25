@@ -34,3 +34,4 @@ Mapping Earthquakes with JS &amp; APIs
 ![Pic 6](https://github.com/Lindsaybgood/Mapping_Earthquakes/blob/main/Images/streets_eq.PNG)
 
 
+
